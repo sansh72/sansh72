@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @sansh72
 - 👀 I’m interested in contributing and learn while i do so
-- 🌱 I’m currently learning DSA in C
+- 🌱 Proficient in C, C++, Python, HTML, CSS and ChatGPT
+- ✏️ Embarking a journey to learn AI-ML
+- 🧠 Data Science enthusiast 
 - 💞️ I’m looking to collaborate on any project that can take advantge of my knowledge
 - 📫 How to reach me? Mail: sanslangeh@outlook.com
--                     Instagram : sanshlangeh
+                    
 
 <!---
 sansh72/sansh72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
