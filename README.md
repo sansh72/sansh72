@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I’m Sansh, an undergraduate student with a passi
 
 - **Current Focus**: I am currently deepening my knowledge in **AI and ML**, particularly through courses like **CS229** and hands-on projects.
 - **Skills**: Python, Flask, Django, React, Machine Learning, Deep Learning, Computer Vision, Data Science, Web Development, Cloud Computing.
-- **Experience**: I have completed **3 ML internships**, worked on various **AI/ML projects**, and have even **submitted research papers** to conferences like **ICLR**.
 
 I believe that **Machine Learning** and **AI** have the power to revolutionize industries, and I am passionate about using these technologies to build innovative solutions.
 
