@@ -78,7 +78,7 @@ Welcome to my GitHub! I’m an aspiring **Software Engineer** and an undergradua
 - 📧 **Email**: sanshray_2022bece105@nitsri.ac.in  
 - 💼 **LinkedIn**: [Sanshray Langeh](https://www.linkedin.com/in/sanshray-langeh-024383241/)  
 - 💻 **GitHub**: [sansh72](https://github.com/sansh72)  
-- 🌐 **Portfolio**: [simulation.today](https://sanshray.live)  
+- 🌐 **Portfolio**: [Sanshray.Live](https://sanshray.live)  
 
 ---
 
