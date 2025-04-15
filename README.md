@@ -1,54 +1,88 @@
-# Sansh’s Portfolio
+# 👋 Hi, I'm Sanshray Singh
 
-Welcome to my GitHub profile! I’m Sansh, an undergraduate student with a passion for **Machine Learning**, **Artificial Intelligence**, **Data Science**, and **Web Development**. I am currently pursuing my degree in **Electronics and Communication Engineering** at **NIT Srinagar**, with an eagerness to apply my skills in **AI/ML** to real-world problems.
+Welcome to my GitHub! I’m an aspiring **Software Engineer** and an undergraduate at **NIT Srinagar** majoring in **Electronics and Communication Engineering**. My interests lie at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**. I’m passionate about leveraging data and AI to solve real-world problems and build scalable, impactful systems.
 
-## About Me
+---
 
-- **Current Focus**: I am currently deepening my knowledge in **AI and ML**, particularly through courses like **CS229** and hands-on projects.
-- **Skills**: Python, Flask, Django, React, Machine Learning, Deep Learning, Computer Vision, Data Science, Web Development, Cloud Computing.
+## 🚀 About Me
 
-I believe that **Machine Learning** and **AI** have the power to revolutionize industries, and I am passionate about using these technologies to build innovative solutions.
+- **Current Role**: Founder at **Tech Lift**, a nonprofit initiative delivering web solutions to NGOs.
+- **Focus Areas**: Full-stack development, Machine Learning, Generative AI, LLMs, real-time data pipelines.
+- **Currently Exploring**: Advanced deep learning, LLM fine-tuning, cloud infrastructure, and scalable backend systems.
+- **Notable Conferences**: Attended **HPAIR ACONF 2024** in Bangkok, representing North India.
 
-## Projects
+---
 
-Here’s a list of my notable projects on GitHub:
+## 🧠 Skills
 
-### 1. **Resume Parsing System**
-   - **Technologies Used**: Python, SpaCy, Machine Learning
-   - I developed a script for automatically extracting key information (name, email, skills, etc.) from resumes in PDF format. This project demonstrates my skills in natural language processing and machine learning for document analysis.
-   
-### 2. **Attendance System with Face Recognition**
-   - **Technologies Used**: Python, OpenCV, Tkinter, Facial Recognition
-   - I built an attendance system that uses face recognition to mark student attendance. The system integrates a GUI with image processing to identify students based on their facial features.
+- **Languages**: Python, C++, Go, JavaScript, SQL  
+- **Frameworks**: Django, Flask, FastAPI, React, Next.js  
+- **AI/ML Tools**: PyTorch, TensorFlow, scikit-learn, HuggingFace, OpenCV, SpaCy  
+- **DevOps & Tools**: Docker, Kubernetes, Git, Prefect, PostgreSQL, Grafana, SQLAlchemy  
+- **Cloud & Infra**: AWS (EC2, S3, Lambda), GCP, VictoriaMetrics  
 
-### 3. **Web Application for AI/ML Research**
-   - **Technologies Used**: React, Flask, Python, OpenCV
-   - A web-based research application that dynamically adjusts layouts based on user interaction and integrates **supervised and unsupervised learning** to optimize the user experience.
+---
 
-### 4. **2D Data Labeling Tool**
-   - **Technologies Used**: Python, Scikit-learn, Matplotlib
-   - I created a tool that allows users to upload CSV files, perform clustering (KMeans/DBSCAN), and visualize data in 2D. Users can manually edit labels and export the data as CSV for further use.
+## 🔬 Featured Projects
 
-### 5. **AI/ML Research Paper (ICLR Submission)**
-   - **Summary**: My paper, which explores the integration of user interaction data with LLMs (like GPT-4), aims to dynamically adjust web application layouts using AI models. This paper has been submitted to **ICLR**.
+### 💡 Fine-Tuning LLM on Medical Data (BRATS)
+- Fine-tuned Falcon 7B using **LoRA** on 3D NIfTI scans for tumor prediction and classification.
+- Demonstrates expertise in **LLM adaptation**, **medical imaging**, and **efficient training**.
 
-## Education
+### 📊 2D Data Visualization and Clustering
+- Developed a PCA-based visualization tool to cluster 3-phase AC data with 98.5% accuracy.
+- Integrated **dynamic clustering** and CSV export for further analysis.
 
-- **Current Degree**: Undergraduate in **Electronics and Communication Engineering (ECE)** at **NIT Srinagar**.
-- **Courses**: I have taken courses like **Data Structures**, **Algorithms**, **OOP**, **DBMS**, and **System Design** as part of my curriculum. I am also currently enrolled in **CS229** to master **AI and ML**.
+### 🧠 Attendance System with Face Recognition
+- Built for Prasad Institute of Medical Sciences.
+- Used **ResNet, Inception-ResNet, MTCNN** for facial recognition with **Flask + Django + PostgreSQL** backend.
+- Reduced attendance processing time by 45%.
 
-## Contact
+### 🌐 Generative AI-Based Web Optimization
+- Created a system that **dynamically adjusts web layouts** based on real-time user interaction using **GPT-4**, **supervised + unsupervised ML**.
 
-- **Email**: sanshray_2022bece105@nitsri.ac.in
-- **GitHub**: https://github.com/sansh72
-- **Personal Website**: https://simulation.today
-- **LinkedIn**: https://www.linkedin.com/in/sanshray-langeh-024383241/
+### 🛠️ Resume Parsing System
+- Extracts structured information from resumes using **SpaCy** and **ML models**.
+- Useful for HR automation and NLP applications.
 
-## Future Goals
+---
 
-I aim to further my studies in **AI/ML** by pursuing a **Master’s in Computer Science** at a prestigious institution and contributing to cutting-edge research in the fields of AI and data science.
+## 🏢 Experience
 
-## Additional Information
+- **Tech Lift (Founder)**: Built web solutions for 10+ NGOs, improving their engagement by 60%.
+- **Avrio Energy (ML Intern)**: Time-series clustering and real-time data pipeline with Prefect + PostgreSQL.
+- **Growisto (Research Intern)**: Developed adaptive UI with GenAI and React.
+- **MangosOrange (Tech Lead)**: Led a team of 10+ to build an ML-based attendance solution.
 
-- **Research Interests**: AI, ML, NLP, Computer Vision, Data Science.
-- **Previous Internship Experience**: 3 ML internships, focusing on the development of machine learning models and research applications.
+---
+
+## 🎓 Education
+
+- **Degree**: B.Tech in Electronics and Communication Engineering (2022–2026)  
+- **Institution**: National Institute of Technology, Srinagar  
+- **CGPA**: 8.69  
+- **Courses**: CS229 (Stanford), Data Structures, Algorithms, OOP, DBMS, System Design  
+
+---
+
+## 📜 Certifications
+
+- **Neural Networks and Deep Learning** – DeepLearning.AI  
+- **Advanced Learning Algorithms** – DeepLearning.AI  
+- **Supervised and Unsupervised ML** – DeepLearning.AI  
+
+---
+
+## 🌍 Get in Touch
+
+- 📧 **Email**: sanshray_2022bece105@nitsri.ac.in  
+- 💼 **LinkedIn**: [Sanshray Langeh](https://www.linkedin.com/in/sanshray-langeh-024383241/)  
+- 💻 **GitHub**: [sansh72](https://github.com/sansh72)  
+- 🌐 **Portfolio**: [simulation.today](https://sanshray.live)  
+
+---
+
+## 🎯 Future Goals
+
+I aim to pursue a **Master’s in Computer Science** focused on **AI/ML** and contribute to cutting-edge research in **LLMs**, **Generative AI**, and **data-driven applications** that scale across domains.
+
