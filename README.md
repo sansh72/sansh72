@@ -2,15 +2,13 @@
 I dont code to be employed, i type and create in accordance to not building on presets, but to build something unique which might help a community.
 
 ## Shinaningans So Far
-Owner of a digital media marketing community, which provides the fastest delivery of content, rangidng from websites to media content. Worked with 7+ clienst in 6months.  Get in touch to know more 
+Owner of a digital media marketing community, which provides the fastest delivery of content, ranging from websites to media content. Worked with 7+ clienst in 6 months.  Get in touch to know more 
 
-##Building Porspects
-Like Richard feynmanm, i got a notebook full of ideas to be implemented, i sit on them every weekend, Hit me up if youd like to collaborate. 
+## Building Porspects
+Like Feynman, i got a notebook full of ideas to be implemented, i sit on them every weekend, Hit me up if you'd like to collaborate. 
 
-##Tech Stacks 
-I like to use my keyboard to type in React, Typescript (Mainly because i have a affinity towards C), Python ( Using that in FastAPI Frameworks) and ofcourse that being said, the "null is a object" lang.
-
-
+## Tech Stacks 
+I like React, Typescript (Mainly because i have a affinity towards C), Python ( Using that in FastAPI Frameworks) and ofcourse that being said, the "null is a object" lang.
 
 ## 🌍 Get in Touch
 
@@ -23,6 +21,4 @@ I like to use my keyboard to type in React, Typescript (Mainly because i have a 
 ---
 
 ## 🎯 Future Goals
-
-I aim to pursue a **Master’s in Computer Science** focused on **AI/ML** and contribute to cutting-edge research in **LLMs**, **Generative AI**, and **data-driven applications** that scale across domains.
-
+To thread my thougths to a workable plan to create new software which is fun for me
