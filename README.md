@@ -1,7 +1,7 @@
-##Sansh72
+## Sansh72
 Creative yet a crtique. 
 
-##So Far
+## So Far
 - Owner of a digital media marketing community, which provides the fastest delivery of content, ranging from websites to media content. Worked with 7+ clienst within 6 months, developing an e commerce and multiple brading portfolios.
 - LeetCode 300+
 - Research Experinece in collaboration with NUS Singapore in context of using VIT's. Worked with a digital marketing comapny to implement GenAI in their engines
