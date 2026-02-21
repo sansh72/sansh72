@@ -1,11 +1,12 @@
-#Sansh72
+##Sansh72
 Creative yet a crtique. 
 
-## Shinanigans So Far
+##So Far
 - Owner of a digital media marketing community, which provides the fastest delivery of content, ranging from websites to media content. Worked with 7+ clienst within 6 months, developing an e commerce and multiple brading portfolios.
 - LeetCode 300+
 - Research Experinece in collaboration with NUS Singapore in context of using VIT's. Worked with a digital marketing comapny to implement GenAI in their engines
 - Worked on ML into data segmentation and clustering on grounds of AC 3phase data for auto detection of electrical appliances based of energy ratings at @Kilma Shift
+- SDE at Loop AI.
 
 ## Building Porspects
 Like Feynman, i got a notebook full of ideas to be implemented, i sit on them every weekend, Hit me up if you'd like to collaborate. 
